@@ -132,9 +132,6 @@ def draw_ground(canvas, scene_width, scene_height):
 
 
 
-
-
-
 def draw_pine_tree(canvas, center_x, bottom, height):
     trunk_width = height / 20
     trunk_height = height / 5

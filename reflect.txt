@@ -1,0 +1,30 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+It was interesting as I went through my assignments to think about how much coding has gone into all of 
+the websites that I have visited and that something like a calculator converting centimeters to inches has a 
+bunch of code written to make it work properly. I was especially impressed when we did the assignment with family history
+and I was able to see how creating a few functions could make finding information in a dictionary very quick and efficient.
+
+
+
+2. In your judgment, what is the value of test functions?
+
+To see if the program is working the way it should. I liked the assignment when we were able to test
+the functions to see if it would extract the state or zipcode the way it should. Testing functions can save a programmer from
+a lot of headache of trying to figure out where the problem is because it helps them narrow it down to which function needs to 
+be adjusted. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+When I am writing a program I like to check to see if things will print so that I know they are working the
+way that they are supposed to before passing them as a parameter into another function. This helps me find the issue
+early on rather than writing the whole thing and then having to figure out where the problem is. I also found using the debugger 
+helpful, visually scanning my work to see if I mispelled something, and having my terminal open to show me when there are problems. 
+The biggest thing I can do to improve is practice a lot so that I can understand the basics better and start getting used to
+the syntax of the Python language.
